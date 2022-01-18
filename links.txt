@@ -1,0 +1,22 @@
+box
+外部常用
+fa fa-home
+百度
+https://www.baidu.com
+备注：
+百度
+https://www.baidu.com
+备注：
+Outlook
+https://www.outlook.com
+备注：
+QQ邮箱
+http://mail.qq.com
+备注：
+Gmail
+http://gmail.com
+备注：
+谷歌翻译
+https://translate.google.cn
+备注：
+endbox
